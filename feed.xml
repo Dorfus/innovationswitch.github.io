@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://www.innovationswitch.com//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="https://www.innovationswitch.com//feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.innovationswitch.com//" rel="alternate" type="text/html" /><updated>2017-02-15T17:26:29+00:00</updated><id>https://www.innovationswitch.com///</id><title type="html">Switch - Let’s Innovate Together</title><subtitle>Corporate Innovation made easy – use our unique, process driven approach and suite of tools. Solve real problems using Design Thinking &amp; Lean Startup methodologies.
+</subtitle><entry><title type="html">Looking to increase user adoption? UX first!</title><link href="https://www.innovationswitch.com//2016/10/11/looking-to-increase-user-adoption-ux-first/" rel="alternate" type="text/html" title="Looking to increase user adoption? UX first!" /><published>2016-10-11T07:45:34+00:00</published><updated>2016-10-11T07:45:34+00:00</updated><id>https://www.innovationswitch.com//2016/10/11/looking-to-increase-user-adoption-ux-first</id><content type="html" xml:base="https://www.innovationswitch.com//2016/10/11/looking-to-increase-user-adoption-ux-first/">&lt;h4 id=&quot;we-need-an-application&quot;&gt;We need an application!&lt;/h4&gt;
+
+&lt;p&gt;So you have decided that an application is the solution to your problem. First beware, your user may not want it. This applies to all types of applications (web, mobile, etc.). The key issue is gaining user interest. I’m not talking about the general desirability of your application. You would have already tested that by following &lt;a href=&quot;http://dschool.stanford.edu/dgift/&quot;&gt;Design Thinking methodology&lt;/a&gt;. However, that was a rough &lt;a href=&quot;https://en.wikipedia.org/wiki/Paper_prototyping&quot;&gt;paper prototype&lt;/a&gt;. So, what now? Make sure that your app user experience (UX) is flawless. An app that is easy and fun to use has fewer resistance factors.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h4 id=&quot;prototype-prototype-prototype&quot;&gt;Prototype! Prototype! Prototype!&lt;/h4&gt;
+
+&lt;p&gt;I hear you saying “I don’t have the time to build a pretty looking prototype right now!”. Well there is some good news. UX and user interface (UI) are different and complementary things. UX is all about the journey when using the app, while UI just changes how the app looks. Both of these toolsets are important, however, sometimes a UI designer and a UX designer have very different opinions. More good news though, it does not matter.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“What do you mean? Who’s opinion counts?”&lt;/em&gt;
+&lt;br /&gt; This is a simple one - the &lt;strong&gt;customer&lt;/strong&gt; and only the &lt;strong&gt;customer&lt;/strong&gt; matters!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So the solution is simple: choose the best method to create a prototype for UX testing with customers. Just a few of the options are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.meteor.com/&quot;&gt;Meteor&lt;/a&gt; (for higher fidelity prototypes) - requires some extensive coding background&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.axure.com/&quot;&gt;Axure&lt;/a&gt; - requires some training but can build very good prototypes that can be easily deployed&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.invisionapp.com/&quot;&gt;InVision&lt;/a&gt; - for building click-through demos, quickly&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is a short list of possibilities but with all the tech around today the choices are almost endless. Using something like InVision, you can create pen and paper drawings, take some pictures or scans and create a click-through. With a slightly better looking prototype, customers will get even more excited.&lt;/p&gt;
+
+&lt;h4 id=&quot;ux-testing-time-but-how&quot;&gt;UX testing time! But how?&lt;/h4&gt;
+
+&lt;p&gt;By now you have researched different tool options and found some interesting applications to use. You quickly put one together, now what? It’s time to test! UX testing may well be different to your accustomed customer testing. First, have your goals clear. Make sure you have defined all the tasks that you want the user to complete. Throughout the testing process keep the user talking, they should be explaining what they are seeing and what they intuitively want to do. In the testing session, you should ideally have 3 people:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Facilitator - this person explains the purpose of the testing and what they intend to achieve. They will also be telling the user about the following tasks.&lt;/li&gt;
+  &lt;li&gt;Observer - this person should be watching the expressions and body language of the user to detect their non-verbal emotions.&lt;/li&gt;
+  &lt;li&gt;Note-taker - this person should be taking notes of where the user is in the process and what they are seeing and doing.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;In the testing sessions, the facilitator is the only person (other than the user) that does any talking! There should be no guiding the user in any way. They should be left to figure out the task and if they can’t after some time, they fail and move on.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Recording the session (both audio and video, if possible) is a good idea for later review. Each task will be rated on a scale (that you have defined) to determine:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;whether the user passed or failed&lt;/li&gt;
+  &lt;li&gt;how intuitive and easy it was to complete the task.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When a user fails, it really means that your UX design has failed and needs to be iterated.&lt;/p&gt;
+
+&lt;h4 id=&quot;go-forth-and-develop&quot;&gt;Go forth and develop!&lt;/h4&gt;
+
+&lt;p&gt;At this stage you will have tested several iterations of your prototype and will be ready to build your application. This entire process has ensured that your users will be able to easily use your app when it is released. All this hard work means there will be much less resistance to adoption - your ultimate goal.&lt;/p&gt;</content><author><name>Brett Terespolsky</name><email>brett.terespolsky@innovationswitch.com</email></author><category term="Technology &amp; Tools" /><category term="User testing" /><category term="User experience" /><category term="User interface" /><summary type="html">We need an application!
+
+So you have decided that an application is the solution to your problem. First beware, your user may not want it. This applies to all types of applications (web, mobile, etc.). The key issue is gaining user interest. I’m not talking about the general desirability of your application. You would have already tested that by following Design Thinking methodology. However, that was a rough paper prototype. So, what now? Make sure that your app user experience (UX) is flawless. An app that is easy and fun to use has fewer resistance factors.</summary></entry></feed>
